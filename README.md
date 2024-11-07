@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Vinicius Afonso]!
+# 👋 Olá, eu sou Vinicius Afonso!
 
 Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor com foco em [área de atuação, ex: desenvolvimento web, análise de dados, etc.] e uma paixão por criar soluções inovadoras e eficientes. 🌟
 
