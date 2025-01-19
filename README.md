@@ -24,7 +24,7 @@ Aqui estão algumas tecnologias e ferramentas que eu uso no meu dia a dia de tra
 
 Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-afonso-b748181b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-afonso-b748181b7/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://seu-portfolio.com)
 
 ---
