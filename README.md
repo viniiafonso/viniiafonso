@@ -3,7 +3,7 @@
 Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor Full-stack, e um eterno aprendiz na área de desenvolvimento. 🌟
 
 - 🎓 **Experiência/Área de Estudo: Java, JS, react, node, e muito mais...
-- 🔭 **Atualmente, estou trabalhando em: Philips
+- 🔭 **Atualmente, estou trabalhando como desenvolvedor fullstack
 - 🌱 **Estou aprendendo: Python atualmente
 
 ---
