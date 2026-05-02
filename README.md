@@ -75,4 +75,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/>
 </p>
 
-💬 *Curtiu meu perfil? Bora trocar uma ideia sobre tecnologia ou projetos 🚀*
+<p align="center">💬 *Curtiu meu perfil? Bora trocar uma ideia sobre tecnologia ou projetos 🚀*</p>
