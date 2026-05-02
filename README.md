@@ -1,39 +1,81 @@
-# 👋 Olá, eu sou Vinicius Afonso
+<!-- BANNER ANIMADO -->
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor Full-stack, professor e atualmente empreendedor, e um eterno aprendiz na área de desenvolvimento. 🌟
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=200&section=header&text=Vinicius%20Afonso&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+</p>
 
-- 🎓 **Experiência/Área de Estudo: Java, JS, react, node, e muito mais...
-- 🔭 **Atualmente, estou trabalhando como desenvolvedor fullstack
-- 🌱 **Estou aprendendo: Angular, Inteligência artificial para criação de softwares
+# 👋 Olá, eu sou o Vinicius Afonso
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão algumas tecnologias e ferramentas que eu uso no meu dia a dia de trabalho:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-## 🌐 Vamos nos Conectar!
-
-Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-afonso-b748181b7/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://seu-portfolio.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Professor+de+Tecnologia;Empreendedor;Focado+em+IA+e+Automação;Criando+soluções+que+geram+valor" />
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🚀 Sobre mim
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
+💻 Desenvolvedor Full-Stack com +5 anos de experiência
+🏥 Experiência em sistemas de saúde (Philips)
+🎓 Instrutor de programação
+🚀 Fundador da **TToF Digital**
+🤖 Foco em Inteligência Artificial e automação de sistemas
 
 ---
 
-**Gostou dos meus projetos?** Deixe uma ⭐ nos repositórios que você curtiu ou envie uma mensagem para bater um papo sobre tecnologia!
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,react,angular,js,ts,mysql,git&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## 🧠 Atualmente aprendendo
+
+* 🤖 Inteligência Artificial aplicada
+* ⚙️ Engenharia de IA
+* 🅰️ Angular avançado
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+</p>
+
+---
+
+## 🐍 Contribuições animadas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<!-- FOOTER ANIMADO -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/>
+</p>
+
+💬 *Curtiu meu perfil? Bora trocar uma ideia sobre tecnologia ou projetos 🚀*
