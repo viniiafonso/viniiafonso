@@ -33,8 +33,8 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniiafonso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniiafonso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -58,9 +58,15 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-afonso-b748181b7">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+
+  <a href="https://www.ttofdigital.com">
+    <img src="https://img.shields.io/badge/TToF%20Digital-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
 </p>
+
 
 ---
 
