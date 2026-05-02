@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full-Stack com +5 anos de experiência
+💻 Desenvolvedor Full-Stack com +5 anos de experiência\n
 🏥 Experiência em sistemas de saúde (Philips)
 🎓 Instrutor de programação
 🚀 Fundador da **TToF Digital**
