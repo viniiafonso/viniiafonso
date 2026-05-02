@@ -38,14 +38,6 @@
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=viniiafonso&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
-
 ## 🧠 Atualmente aprendendo
 
 * 🤖 Inteligência Artificial aplicada
