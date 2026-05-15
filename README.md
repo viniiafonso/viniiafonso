@@ -30,14 +30,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniiafonso&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 Atualmente aprendendo
 
 * 🤖 Inteligência Artificial aplicada
